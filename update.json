@@ -1,0 +1,6 @@
+{
+  "version": 14,
+  "firmware": "https://discjokey.github.io/mario-clock-update/firmware.bin",
+  "mandatory": false,
+  "notes": "Mario Clock OTA test"
+}
