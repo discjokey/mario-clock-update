@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "firmware": "https://discjokey.github.io/mario-clock-update/firmware.bin",
+  "version": 16,
+  "firmware": "https://discjokey.github.io/mario-clock-update/firmware-v16.bin",
   "mandatory": false,
-  "notes": "Mario Clock OTA test"
+  "notes": "V16 Web Control + Brightness + Energy Saving"
 }
