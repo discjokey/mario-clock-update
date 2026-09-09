@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 18,
   "firmware": "https://discjokey.github.io/mario-clock-update/firmware-v16.bin",
   "mandatory": false,
   "notes": "V16 Web Control + Brightness + Energy Saving"
