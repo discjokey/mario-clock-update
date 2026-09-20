@@ -1,6 +1,5 @@
 {
-  "version": 18,
-  "firmware": "https://discjokey.github.io/mario-clock-update/firmware-v16.bin",
-  "mandatory": false,
-  "notes": "V16 Web Control + Brightness + Energy Saving"
+  "format": "MPC-OTA-V1",
+  "payload_b64": "TVBDLU9UQS1WMQp2ZXJzaW9uPTEuMQp2ZXJzaW9uX2NvZGU9MTAxCmZpcm13YXJlPWh0dHBzOi8vZGlzY2pva2V5LmdpdGh1Yi5pby9tYXJpby1jbG9jay11cGRhdGUvZmlybXdhcmUtdjEuMS5iaW4Kc2hhMjU2PTM5YjRmODMyMWIxZDc4ZDA4YTVlZTY0YzRiOGY1YTRkYTZhZGM0ZjA2MTUxZTljNWIwMzAwNjY1Yzc3OGU5YjMKdXBkYXRlX21vZGU9c2VsZWN0ZWQKZGV2aWNlcz1NUEMtQjk0MDI5NjExQ0FENEM0RQo=",
+  "signature_b64": "YDzIWbLNPZOH/GNUCmlnmsJDVlHOPYh38jihY78kR0IfufwGW+t5vHmOlmM5LEBjV3E6W2KBxOz+0Kaa7hDwJ7qG+QUsSlicL31UKX1CVWz6N+8NuHvGt9+Nx5/oWTlIpMP4v3NXgg6rCN4MpDBzJErJY1bgZsjSwHSh3SEUmpy5eYnB4H4e0829urbe3i5XOTpKiknEKnKql783xToVQ+vhxq/Svw+MLHkztsydARd6zmZUj3rvRaw+HSRBm5s74i9P04QQZ+YyhR1Fso1aZfym3RVeepsVQW6y9ihv78VSVwCTSlXClNFk4SD2mAEG0b6xUFeE5kqOCB9gK9Cqdw=="
 }
